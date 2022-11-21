@@ -1,2 +1,1 @@
-# Cafe-WebApp-using-PHP
-This webApp is fully developed using HTML and PHP
+# Franklin's Fine Dining Web App
